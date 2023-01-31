@@ -2,13 +2,6 @@
 
 Simple todolist write in django for general use and pipeline automation..
 
-  - Be kind with my baby
-
-### Quick and free tip:
-
-> With great power comes great responsibility
-
-
 ### Tech
 
 Dillinger uses a number of open source projects to work properly:
@@ -29,9 +22,3 @@ $ python manage.py migrate # Running the migrations
 $ python manage.py createsuperuser # Create a superuser
 $ python manage.py runserver
 ```
-
-
-License
-----
-
-GPL
