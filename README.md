@@ -22,3 +22,4 @@ $ python manage.py migrate # Running the migrations
 $ python manage.py createsuperuser # Create a superuser
 $ python manage.py runserver
 ```
+teste
