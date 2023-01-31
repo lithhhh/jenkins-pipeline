@@ -7,7 +7,7 @@ Simple todolist write in django for general use and pipeline automation..
 Dillinger uses a number of open source projects to work properly:
 
 * [Django] - Django makes it easier to build better Web apps more quickly and with less code.
-* [Python-Venv] - The venv module provides support for creating lightweight “virtual environments” with their own site directories
+* [pyenv] - The pyenv module provides support for creating lightweight “virtual environments” with their own site directories
 * [MySQL] - MySQL is an Oracle-backed open source relational database management system (RDBMS) based on Structured Query Language (SQL).
 
 
