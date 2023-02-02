@@ -1,9 +1,9 @@
 node() {
-    stage('teste') {
-        checkout scm
-    }
-
-    witchCredentials([string(credentialsId: 'teste', variable: 'TESTE')]) {
-        echo(message: '$TESTE')
+    stages('teste') {
+        stage('teste 2') {
+                witchCredentials([string(credentialsId: 'teste', variable: 'TESTE')]) {
+                echo(message: '$TESTE')
+            }
+        }
     }
 }
